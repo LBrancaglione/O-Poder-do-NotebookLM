@@ -1,6 +1,6 @@
 # 🎮 The Grand Unified Theory of Overwatch Macro
 
-Project developed during the :contentReference[oaicite:0]{index=0} challenge — **AUTOMAÇÃO COM IA**.
+Project developed during the : https://notebooklm.google.com/notebook/0a1d7639-7139-4eaa-b8b5-477d2f557715 challenge — **AUTOMAÇÃO COM IA**.
 
 ---
 
